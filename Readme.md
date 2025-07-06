@@ -40,6 +40,6 @@ L'application inclut Spring Security avec les fonctionnalités suivantes :
 
 ### Captures d'écran
 
-- Image de l'interface de connexion : `login.png`
-- Images de l'interface administrateur : `admin-1.png`, `admin-2.png`
-- Images de l'interface utilisateur : `user-1.png`
+- Image de l'interface de connexion : `images/login.png`
+- Images de l'interface administrateur : `images/admin-1.png`, `images/admin-2.png`
+- Images de l'interface utilisateur : `images/user-1.png`
